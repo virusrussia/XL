@@ -6,3 +6,4 @@ Created on 14 июн. 2019 г.
 SOURCEDIR="source"
 RESULTDIR="result"
 EMPLOYERID="Таб. №"
+FOT="ФОТ"
